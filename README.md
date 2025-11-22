@@ -1,4 +1,4 @@
-# Reno-s-Repository
+# Reno's-Repository
 It's all about portofolio from reno's 
 portofolio in this repository contain such as:
 1. Forecasting Crude Oil Prices using Long Short Term Memory with Attention Mechanism
